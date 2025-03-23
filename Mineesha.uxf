@@ -1,13 +1,13 @@
- <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.1">
-  <zoom_level>7</zoom_level>
+  <zoom_level>6</zoom_level>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>553</x>
-      <y>21</y>
-      <w>14</w>
-      <h>14</h>
+      <x>504</x>
+      <y>18</y>
+      <w>12</w>
+      <h>12</h>
     </coordinates>
     <panel_attributes>type=initial</panel_attributes>
     <additional_attributes/>
@@ -15,21 +15,21 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>21</y>
-      <w>21</w>
-      <h>49</h>
+      <x>504</x>
+      <y>24</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>518</x>
-      <y>56</y>
-      <w>91</w>
-      <h>28</h>
+      <x>474</x>
+      <y>48</y>
+      <w>78</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes> Start Inspiration </panel_attributes>
     <additional_attributes/>
@@ -37,10 +37,10 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>511</x>
-      <y>154</y>
-      <w>105</w>
-      <h>28</h>
+      <x>468</x>
+      <y>132</y>
+      <w>90</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Air Delivery</panel_attributes>
     <additional_attributes/>
@@ -48,10 +48,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>77</y>
-      <w>21</w>
-      <h>42</h>
+      <x>504</x>
+      <y>66</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
@@ -59,10 +59,10 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>511</x>
-      <y>105</y>
-      <w>112</w>
-      <h>28</h>
+      <x>468</x>
+      <y>90</y>
+      <w>96</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Open Inspiration Valve</panel_attributes>
     <additional_attributes/>
@@ -70,10 +70,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>126</y>
-      <w>21</w>
-      <h>42</h>
+      <x>504</x>
+      <y>108</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
@@ -81,10 +81,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>175</y>
-      <w>21</w>
-      <h>42</h>
+      <x>504</x>
+      <y>150</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
@@ -92,10 +92,10 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>511</x>
-      <y>203</y>
-      <w>98</w>
-      <h>28</h>
+      <x>468</x>
+      <y>174</y>
+      <w>84</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Airflow Checkup</panel_attributes>
     <additional_attributes/>
@@ -103,21 +103,21 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>406</x>
-      <y>329</y>
-      <w>112</w>
-      <h>28</h>
+      <x>366</x>
+      <y>282</y>
+      <w>102</w>
+      <h>24</h>
     </coordinates>
-    <panel_attributes>Close Inspiration Valve </panel_attributes>
+    <panel_attributes>Continue Inspiration Valve </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>224</y>
-      <w>21</w>
-      <h>49</h>
+      <x>504</x>
+      <y>192</y>
+      <w>18</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
@@ -125,10 +125,10 @@
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>504</x>
-      <y>259</y>
-      <w>112</w>
-      <h>70</h>
+      <x>462</x>
+      <y>222</y>
+      <w>96</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Is airflow Ok?
 bg=GREEN</panel_attributes>
@@ -137,155 +137,45 @@ bg=GREEN</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>434</x>
-      <y>280</y>
-      <w>84</w>
-      <h>63</h>
+      <x>384</x>
+      <y>240</y>
+      <w>90</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
             [YES]</panel_attributes>
-    <additional_attributes>40.0;70.0;40.0;20.0;100.0;20.0</additional_attributes>
+    <additional_attributes>10.0;70.0;10.0;20.0;130.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>280</y>
-      <w>63</w>
-      <h>63</h>
+      <x>552</x>
+      <y>240</y>
+      <w>138</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [NO]</panel_attributes>
-    <additional_attributes>70.0;70.0;70.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>210.0;70.0;210.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>616</x>
-      <y>329</y>
-      <w>84</w>
-      <h>28</h>
+      <x>618</x>
+      <y>282</y>
+      <w>96</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Adjust Airflow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>651</x>
-      <y>350</y>
-      <w>21</w>
-      <h>42</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>518</x>
-      <y>427</y>
-      <w>98</w>
-      <h>28</h>
-    </coordinates>
-    <panel_attributes> Start Expiration </panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>609</x>
-      <y>378</y>
-      <w>112</w>
-      <h>28</h>
-    </coordinates>
-    <panel_attributes>Continue Inspiration</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>455</x>
-      <y>350</y>
-      <w>126</w>
-      <h>91</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>160.0;110.0;160.0;80.0;10.0;80.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>518</x>
-      <y>476</y>
-      <w>112</w>
-      <h>28</h>
-    </coordinates>
-    <panel_attributes>Open Expiration Valve</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>560</x>
-      <y>448</y>
-      <w>21</w>
-      <h>42</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>560</x>
-      <y>497</y>
-      <w>21</w>
-      <h>42</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>560</x>
-      <y>546</y>
-      <w>21</w>
-      <h>42</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>518</x>
-      <y>525</y>
-      <w>112</w>
-      <h>28</h>
-    </coordinates>
-    <panel_attributes>Release Air</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>511</x>
-      <y>574</y>
-      <w>126</w>
-      <h>28</h>
-    </coordinates>
-    <panel_attributes>Check expiration Pressure</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>490</x>
-      <y>630</y>
-      <w>154</w>
-      <h>70</h>
+      <x>522</x>
+      <y>594</y>
+      <w>144</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Is exp pressure Ok?
 bg=GREEN</panel_attributes>
@@ -294,45 +184,45 @@ bg=GREEN</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
-      <y>595</y>
-      <w>21</w>
-      <h>49</h>
+      <x>588</x>
+      <y>570</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>651</y>
-      <w>84</w>
-      <h>63</h>
+      <x>444</x>
+      <y>612</y>
+      <w>90</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
             [YES]</panel_attributes>
-    <additional_attributes>40.0;70.0;40.0;20.0;100.0;20.0</additional_attributes>
+    <additional_attributes>20.0;70.0;20.0;20.0;130.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>637</x>
-      <y>651</y>
-      <w>63</w>
-      <h>63</h>
+      <x>660</x>
+      <y>612</y>
+      <w>84</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [NO]</panel_attributes>
-    <additional_attributes>70.0;70.0;70.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>120.0;70.0;120.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>399</x>
-      <y>700</y>
-      <w>112</w>
-      <h>28</h>
+      <x>438</x>
+      <y>654</y>
+      <w>96</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Close Expiration Valve </panel_attributes>
     <additional_attributes/>
@@ -340,10 +230,10 @@ bg=GREEN</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>644</x>
-      <y>700</y>
-      <w>126</w>
-      <h>28</h>
+      <x>696</x>
+      <y>654</y>
+      <w>108</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Adjust Expiration Pressure</panel_attributes>
     <additional_attributes/>
@@ -351,10 +241,10 @@ bg=GREEN</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>679</x>
-      <y>721</y>
-      <w>21</w>
-      <h>49</h>
+      <x>726</x>
+      <y>672</y>
+      <w>18</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
@@ -362,10 +252,10 @@ bg=GREEN</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>637</x>
-      <y>756</y>
-      <w>112</w>
-      <h>28</h>
+      <x>690</x>
+      <y>702</y>
+      <w>96</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Continue Expiration</panel_attributes>
     <additional_attributes/>
@@ -373,21 +263,21 @@ bg=GREEN</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
-      <y>721</y>
-      <w>126</w>
-      <h>91</h>
+      <x>450</x>
+      <y>672</y>
+      <w>180</w>
+      <h>96</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>160.0;110.0;160.0;80.0;10.0;80.0;10.0;10.0</additional_attributes>
+    <additional_attributes>280.0;140.0;280.0;100.0;10.0;100.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>518</x>
-      <y>798</y>
-      <w>112</w>
-      <h>28</h>
+      <x>588</x>
+      <y>756</y>
+      <w>96</w>
+      <h>24</h>
     </coordinates>
     <panel_attributes>Repeat Cycle</panel_attributes>
     <additional_attributes/>
@@ -395,21 +285,21 @@ bg=GREEN</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>567</x>
-      <y>819</y>
-      <w>21</w>
-      <h>49</h>
+      <x>630</x>
+      <y>774</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>567</x>
-      <y>854</y>
-      <w>14</w>
-      <h>14</h>
+      <x>630</x>
+      <y>798</y>
+      <w>12</w>
+      <h>12</h>
     </coordinates>
     <panel_attributes>type=final</panel_attributes>
     <additional_attributes/>
@@ -417,13 +307,192 @@ bg=GREEN</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>364</x>
+      <x>288</x>
       <y>0</y>
-      <w>427</w>
-      <h>896</h>
+      <w>600</w>
+      <h>840</h>
     </coordinates>
     <panel_attributes>System
 valign=top</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>630</x>
+      <y>324</y>
+      <w>96</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Check Sensors
+bg=GREEN</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>672</x>
+      <y>300</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>570</x>
+      <y>342</y>
+      <w>78</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+            [YES]</panel_attributes>
+    <additional_attributes>30.0;70.0;30.0;20.0;110.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>552</x>
+      <y>384</y>
+      <w>102</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Close Inspiratory Valve</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>714</x>
+      <y>342</y>
+      <w>84</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+[NO]</panel_attributes>
+    <additional_attributes>120.0;70.0;120.0;20.0;10.0;20.0;120.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>726</x>
+      <y>384</y>
+      <w>102</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Trigger Alarms</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>780</x>
+      <y>402</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>732</x>
+      <y>426</y>
+      <w>102</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Continue Inspiration</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>582</x>
+      <y>402</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>558</x>
+      <y>426</y>
+      <w>84</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes> Start Expiration </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>582</x>
+      <y>444</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>552</x>
+      <y>468</y>
+      <w>96</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Open Expiration Valve</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>582</x>
+      <y>486</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>546</x>
+      <y>510</y>
+      <w>96</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Release Air</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>582</x>
+      <y>528</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>546</x>
+      <y>552</y>
+      <w>108</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>Check expiration Pressure</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
